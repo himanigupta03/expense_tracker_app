@@ -2,13 +2,6 @@
 
 An application where we can add our daily income and express.
 
-## Hosted link
-> App [https://my-exp-tracker.netlify.app](https://my-exp-tracker.netlify.app)
-
-> Server [https://my-exp-tracker.herokuapp.com](https://my-exp-tracker.herokuapp.com)
-
-> Api Documentation [https://my-exp-tracker.herokuapp.com/api-docs](https://my-exp-tracker.herokuapp.com/api-docs)
-
 ## Technologies Used
 - ReactJS 
 - NodeJS
